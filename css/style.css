@@ -1,0 +1,66 @@
+#container{
+	margin: 0px auto;
+	width: 1000px;
+	height: 800px;
+	background-color: aqua;
+}
+#banner{
+	width: 1000px;
+	height: 100px;
+	background-color: aliceblue;
+}
+#menu{
+	width: 1000px;
+	height: 50px;
+	background-color: darkgray;
+}
+#main{
+	width: 1000px;
+	height: 600px;
+	background-color: skyblue;
+}
+#main-left{
+	float: left;
+	width: 150px;
+	height: 600px;
+	background-color: gainsboro;
+}
+#main-right{
+	float: right;
+	width: 850px;
+	height:600px;
+	background-color: whitesmoke;
+}
+#footer{
+	width: 1000px;
+	height: 100px;
+	background-color: burlywood;
+}
+#sanpham{
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 180px;
+	height: 260px;
+	background-color: white;
+	border: 1px solid black;
+}
+#sanpham-hinh{
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 160px;
+	height: 180px;
+	border: 1px solid ;
+}
+#sanpham-ten{
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	border: 1px solid ;
+}
+#sanpham-gia{
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	border: 1px solid ;
+}
